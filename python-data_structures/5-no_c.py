@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 def remove_chars(input_string):
     # Initialize an empty string to store the result
     result_string = ""
