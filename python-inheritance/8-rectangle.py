@@ -3,7 +3,7 @@
 
 
 BaseGeometry = __import__('7-base_geometry').BaseGeometry
-
+'''Module that is documented is above'''
 
 class Rectangle(BaseGeometry):
     '''Rectangle class that inherits the BaseGeometry '''
