@@ -1,0 +1,6 @@
+# Written by ubuntu-advantage-tools
+deb https://esm.ubuntu.com/ubuntu trusty-infra-security main
+# deb-src https://esm.ubuntu.com/ubuntu trusty-infra-security main
+
+deb https://esm.ubuntu.com/ubuntu trusty-infra-updates main
+# deb-src https://esm.ubuntu.com/ubuntu trusty-infra-updates main
