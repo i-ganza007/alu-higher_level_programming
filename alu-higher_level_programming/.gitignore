@@ -1,17 +1,12 @@
-../.dockerenv
-../bin/
-../dev/
-../etc/
-../lib/
 ../lib32/
-../lib64/
-../libx32/
-../proc/
-../root/
-../run/
-../sbin/
-../sys/
-../tmp/
-../usr/
-../var/
+        ../lib64/
+        ../libx32/
+        ../proc/
+        ../root/
+        ../run/
+        ../sbin/
+        ../sys/
+        ../tmp/
+        ../usr/
+        ../var/
 
